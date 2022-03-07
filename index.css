@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    background-color: bisque
+}
+
+div h1{
+    padding: 6px;
+    background-color: palevioletred;
+    color: aliceblue;
+    text-align-last: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+    cursor: pointer;
+} 
+
+div p{
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    color:palevioletred;
+}
+
+div img {
+    margin: 20px;
+    justify-content: space-between;
+    height: 300px;
+}
